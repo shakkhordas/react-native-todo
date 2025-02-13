@@ -22,7 +22,7 @@ A modern, cross-platform mobile app built with **React Native**. This app demons
 
 | Home Screen | Profile Screen | Settings Screen |
 |-------------|----------------|-----------------|
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/settings.png" width="200"> |
+<!-- | <img src="screenshots/home.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/settings.png" width="200"> | -->
 
 ---
 
