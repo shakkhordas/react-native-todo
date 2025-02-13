@@ -38,9 +38,37 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## Installation
+## Usage
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/shakkhordas/react-native-todo.git
    cd react-native-todo
+
+2. **Install Dependencies**:
+    ```bash
+    npm install
+    # or
+    yarn install
+
+3. **Run the App**
+- Expo Go App
+    ```bash
+    npx expo start
+- For iOS
+    ```bash
+    npx react-native run-ios
+- For Android
+    ```bash
+    npx react-native run-android
+
+    
+## Acknowledgments
+
+- [React Native Documentation](https://reactnative.dev/docs/getting-started)
+- [Expo Documentation](https://docs.expo.dev/)
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+- shakkhordas117@gmail.com
