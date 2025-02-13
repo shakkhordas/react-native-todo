@@ -21,10 +21,9 @@ export default function App() {
         setCourseGoals(currentCourseGoals =>
             [...currentCourseGoals, {
                 text: enteredGoalText,
-                id: Math.random().toString()
+                id: Math.random().toString() // flatlist looks for key, but can be done by any property name using the key extractor prop in the renderer
             }]);
         endAddGoalHandler();
-        // flatlist looks for key, but can be done by any property name using the key extractor prop in the renderer
     }
 
     function deleteGoalHandler(id) {
@@ -56,7 +55,7 @@ const styles = StyleSheet.create({
         flex: 1,
         paddingTop: 50,
         paddingHorizontal: 16,
-
+        
     },
     goalsContainer: {
         flex: 5

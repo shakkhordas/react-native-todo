@@ -1,4 +1,4 @@
-# My React Native App
+# React-Native-Todo
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -10,10 +10,10 @@ A modern, cross-platform mobile app built with **React Native**. This app demons
 ## Features
 
 - **Cross-Platform**: Works on both iOS and Android.
-- **State Management**: Uses Redux (or Zustand, Context API, etc.) for state management.
+<!-- - **State Management**: Uses Redux (or Zustand, Context API, etc.) for state management.
 - **Navigation**: Implements React Navigation for seamless navigation.
 - **API Integration**: Fetches data from a RESTful API (or GraphQL).
-- **Authentication**: Supports user login and registration.
+- **Authentication**: Supports user login and registration. -->
 - **UI Components**: Built with reusable and customizable components.
 
 ---
